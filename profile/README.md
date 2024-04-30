@@ -12,8 +12,8 @@ Hello! Stack-chan is a palm-sized, super-kawaii open-source robot. Our motto is:
 
 Our community is active on platforms like Twitter and Discord, where daily interactions bring new innovations to Stack-chan’s development. Unlike traditional robot products managed by specific companies or individuals, we foster a decentralized environment where "everyone is both a developer and a user." We mainly operate in Japanese but with a growing international presence, we are also active in other languages. Join us on this journey!
 
-<img alt="maker faire shenzhen 1" width="49%" src="/assets/images/mfshenzhen1.jpg" />
-<img alt="maker faire shenzhen 2" width="49%" src="/assets/images/mfshenzhen2.jpg" />
+| ![maker faire shenzhen 1](/assets/images/mfshenzhen1.jpg) | ![maker faire shenzhen 2](/assets/images/mfshenzhen2.jpg) |
+|:--------------:|:--------------:|
 
 ## 🚀 Stack-chan Activities
 
